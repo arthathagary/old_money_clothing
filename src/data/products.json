@@ -1,0 +1,353 @@
+[
+  {
+    "id": "omc-001",
+    "name": "The Mercer Heavyweight Supima Tee",
+    "subtitle": "310 GSM Double-Mercerized Pima Cotton",
+    "price": 8900,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "T-Shirts",
+    "tags": ["New", "Bestseller"],
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Alabaster Ivory", "hex": "#F4F0E8" },
+      { "name": "Heritage Forest", "hex": "#1B352A" },
+      { "name": "Obsidian Espresso", "hex": "#181614" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "fabric": "100% Extra-Long Staple Supima Cotton (310 GSM)",
+    "fit": "Relaxed Architectural Box Fit",
+    "description": "Engineered with a high-set ribbed collar that never loses structure. Spun from extra-long staple Supima cotton with a lustrous matte finish and clean blind-stitched hems.",
+    "editionNumber": "ED. 01 / 250",
+    "rating": 4.9,
+    "reviewsCount": 124
+  },
+  {
+    "id": "omc-002",
+    "name": "Como Pleated Gurkha Linen Trousers",
+    "subtitle": "High-Rise Double-Pleat Tailored Silhouette",
+    "price": 18500,
+    "originalPrice": 21900,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "Trousers",
+    "tags": ["Sale", "Bestseller"],
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Warm Oatmeal", "hex": "#DDD5C7" },
+      { "name": "Espresso Bark", "hex": "#2A2421" },
+      { "name": "Olive Estate", "hex": "#3B473B" }
+    ],
+    "sizes": ["28", "30", "32", "34", "36"],
+    "fabric": "100% Belgian Flax Linen (Breathable Tropical Weave)",
+    "fit": "High-Waisted Straight Tapered Leg",
+    "description": "Inspired by mid-century Italian Riviera tailoring. Features signature extended Gurkha waist tabs with brushed brass buckles, deep double pleats, and a fluid drape suited for tropical climates.",
+    "editionNumber": "ED. 02 / 180",
+    "rating": 5.0,
+    "reviewsCount": 98
+  },
+  {
+    "id": "omc-003",
+    "name": "Capri Resort Cuban Collar Linen Shirt",
+    "subtitle": "Mother-of-Pearl Button Open Camp Shirt",
+    "price": 13900,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "Shirts",
+    "tags": ["New"],
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Champagne Sand", "hex": "#E6DEC8" },
+      { "name": "British Racing Green", "hex": "#1B352A" },
+      { "name": "Midnight Navy", "hex": "#1A2433" }
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "fabric": "70% Normandie Linen, 30% Mulberry Silk Blend",
+    "fit": "Relaxed Resort Cut",
+    "description": "Tailored with a one-piece rolled camp collar that frames the collarbone effortlessly. Finished with genuine smoked Mother-of-Pearl buttons and side-vented hems.",
+    "editionNumber": "ED. 03 / 200",
+    "rating": 4.8,
+    "reviewsCount": 76
+  },
+  {
+    "id": "omc-004",
+    "name": "Sloane Wide-Leg Tailored Palazzo Trousers",
+    "subtitle": "Fluid Crepe-Wool & Tencel Drape Trouser",
+    "price": 17800,
+    "currency": "LKR",
+    "category": "Women",
+    "garmentType": "Trousers",
+    "tags": ["New", "Bestseller"],
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Swan Ivory", "hex": "#F7F4EF" },
+      { "name": "Camel Cashmere", "hex": "#C2A382" },
+      { "name": "Nocturne Black", "hex": "#141311" }
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "fabric": "65% Tencel Lyocell, 35% Fine Merino Wool",
+    "fit": "High-Rise Elongated Wide Leg",
+    "description": "Designed to create an elongated architectural line with every stride. Features concealed hook-and-bar closure, pressed front knife pleats, and silk-trimmed slant pockets.",
+    "editionNumber": "ED. 04 / 150",
+    "rating": 4.9,
+    "reviewsCount": 112
+  },
+  {
+    "id": "omc-005",
+    "name": "Mayfair Poplin Oversized Atelier Shirt",
+    "subtitle": "Crisp Egyptian Cotton Poplin Button-Down",
+    "price": 14500,
+    "originalPrice": 16900,
+    "currency": "LKR",
+    "category": "Women",
+    "garmentType": "Shirts",
+    "tags": ["Sale"],
+    "image": "https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Crisp Chalk", "hex": "#FAF8F5" },
+      { "name": "Oxford Sky Stripe", "hex": "#C8D6E5" },
+      { "name": "Sage Whisper", "hex": "#C5D1C8" }
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "fabric": "100% 120s Two-Ply Egyptian Cotton Poplin",
+    "fit": "Borrowed-From-The-Tailor Relaxed Fit",
+    "description": "A staple of understated refinement. Cut with dropped shoulders, deep mitered cuffs with subtle tonal 'OM' monogram embroidery, and a curved gusseted hem.",
+    "editionNumber": "ED. 05 / 220",
+    "rating": 4.8,
+    "reviewsCount": 89
+  },
+  {
+    "id": "omc-006",
+    "name": "Ascot Fine-Knit Silk-Cotton Johnny Polo",
+    "subtitle": "16-Gauge Open-Placket Heritage Knit Tee",
+    "price": 15200,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "Polos & Knitwear",
+    "tags": ["New", "Limited"],
+    "image": "https://images.unsplash.com/photo-1626497764746-6dc36546b388?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1626497764746-6dc36546b388?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1516826957135-700dedea698c?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Heritage Forest", "hex": "#1B352A" },
+      { "name": "Champagne Cream", "hex": "#EFE9DC" },
+      { "name": "Espresso Roast", "hex": "#231E1B" }
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "fabric": "85% Organic Combed Cotton, 15% Mulberry Silk",
+    "fit": "Tailored Athletic Contour",
+    "description": "Bridging the comfort of a t-shirt with country-club heritage. Full-fashioned 16-gauge knit with rib-welted sleeves and waist so it sits cleanly over pleated trousers without tucking.",
+    "editionNumber": "ED. 06 / 120",
+    "rating": 4.9,
+    "reviewsCount": 143
+  },
+  {
+    "id": "omc-007",
+    "name": "Kensington Ribbed Baby-Tee in Pima Cotton",
+    "subtitle": "Sculpted Micro-Rib Crewneck T-Shirt",
+    "price": 7900,
+    "currency": "LKR",
+    "category": "Women",
+    "garmentType": "T-Shirts",
+    "tags": ["New", "Bestseller"],
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Warm Alabaster", "hex": "#F5F2EB" },
+      { "name": "Mocha Taupe", "hex": "#8B7968" },
+      { "name": "Obsidian", "hex": "#121110" }
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "fabric": "95% Peruvian Pima Cotton, 5% Elastane (260 GSM Micro-Rib)",
+    "fit": "Contoured Waist-Grazing Fit",
+    "description": "Our signature everyday luxury tee for women. Super-soft Peruvian Pima micro-rib hugs smoothly without sheer spots, hitting right at the waistband of high-rise tailored trousers.",
+    "editionNumber": "ED. 07 / 300",
+    "rating": 4.9,
+    "reviewsCount": 167
+  },
+  {
+    "id": "omc-008",
+    "name": "Savile Striped Oxford Cloth Button-Down",
+    "subtitle": "Heavy Brushed Heritage OCBD Shirt",
+    "price": 14900,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "Shirts",
+    "tags": ["Bestseller"],
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "University Green Stripe", "hex": "#2A4738" },
+      { "name": "Classic Ivory", "hex": "#F3EFE6" },
+      { "name": "regatta Blue Stripe", "hex": "#4B6584" }
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "fabric": "100% Heavyweight Scottish Basketweave Oxford Cotton",
+    "fit": "Classic Ivy League Cut with Soft Collar Roll",
+    "description": "Constructed with an unlined interlining collar specifically calculated to create the iconic Ivy League S-roll. Features box pleat back with locker loop and tall mother-of-pearl buttons.",
+    "editionNumber": "ED. 08 / 190",
+    "rating": 4.8,
+    "reviewsCount": 91
+  },
+  {
+    "id": "omc-009",
+    "name": "Gstaad Cable-Knit Cricket Crew Tee",
+    "subtitle": "Short-Sleeve Contrast Tipped Heritage Knit",
+    "price": 13500,
+    "originalPrice": 16200,
+    "currency": "LKR",
+    "category": "Women",
+    "garmentType": "Polos & Knitwear",
+    "tags": ["Sale", "Limited"],
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Cream & Forest Tipped", "hex": "#F3EFE6" },
+      { "name": "Champagne Oat", "hex": "#DECBB1" }
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "fabric": "90% Organic Combed Cotton, 10% Cashmere",
+    "fit": "Cropped Boxy Knit Tee",
+    "description": "A modern short-sleeve interpretation of the vintage Alpine club sweater. Detailed with miniature cable stitching and forest-green stripe tipping along the neckline and cuffs.",
+    "editionNumber": "ED. 09 / 100",
+    "rating": 4.9,
+    "reviewsCount": 64
+  },
+  {
+    "id": "omc-010",
+    "name": "Belgravia Relaxed Drawstring Linen Trousers",
+    "subtitle": "Tailored Resort Trouser with Concealed Waist",
+    "price": 16400,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "Trousers",
+    "tags": ["New"],
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Stone Parchment", "hex": "#E3DCD2" },
+      { "name": "Deep Espresso", "hex": "#211C19" },
+      { "name": "Cypress Green", "hex": "#293D33" }
+    ],
+    "sizes": ["28", "30", "32", "34", "36"],
+    "fabric": "55% European Linen, 45% Virgin Cotton Twill",
+    "fit": "Relaxed Straight Cut",
+    "description": "Looks like bespoke formal trousers from the outside, with an internal braided silk-cotton drawstring that can be tucked away when wearing a leather belt.",
+    "editionNumber": "ED. 10 / 210",
+    "rating": 4.7,
+    "reviewsCount": 53
+  },
+  {
+    "id": "omc-011",
+    "name": "Monaco Mock-Neck Heavyweight Atelier Tee",
+    "subtitle": "Structured Elevated Collar Minimalist T-Shirt",
+    "price": 9500,
+    "originalPrice": 11500,
+    "currency": "LKR",
+    "category": "Men",
+    "garmentType": "T-Shirts",
+    "tags": ["Sale"],
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Nocturne Charcoal", "hex": "#1B1A18" },
+      { "name": "Alabaster", "hex": "#F5F2EB" },
+      { "name": "Champagne Taupe", "hex": "#B8A996" }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "fabric": "100% Compact-Spun Organic Cotton (295 GSM)",
+    "fit": "Modern Tailored Drop-Shoulder",
+    "description": "Designed to layer cleanly beneath linen blazers or stand alone with pleated trousers. Features a 1.25-inch elevated mock collar and tonal crest embroidery at the back yoke.",
+    "editionNumber": "ED. 11 / 160",
+    "rating": 4.8,
+    "reviewsCount": 79
+  },
+  {
+    "id": "omc-012",
+    "name": "Château Mulberry Silk-Blend Pajama Shirt",
+    "subtitle": "Lustrous Draped Evening & Day Shirt",
+    "price": 19500,
+    "currency": "LKR",
+    "category": "Women",
+    "garmentType": "Shirts",
+    "tags": ["New", "Limited"],
+    "image": "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=900&q=85",
+    "hoverImage": "https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&w=900&q=85",
+    "gallery": [
+      "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&w=1100&q=85",
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=1100&q=85"
+    ],
+    "colors": [
+      { "name": "Liquid Champagne", "hex": "#E3D3B6" },
+      { "name": "Emerald Nocturne", "hex": "#1B352A" },
+      { "name": "Espresso Silk", "hex": "#241D1A" }
+    ],
+    "sizes": ["XS", "S", "M", "L"],
+    "fabric": "60% Mulberry Silk Satin, 40% EcoVero Viscose",
+    "fit": "Fluid Draped Silhouette",
+    "description": "Trimmed with subtle contrast piping along the notched lapel and cuffs. Effortlessly transitions from sunlit coastal afternoons to candlelit rooftop evenings.",
+    "editionNumber": "ED. 12 / 90",
+    "rating": 5.0,
+    "reviewsCount": 108
+  }
+]
